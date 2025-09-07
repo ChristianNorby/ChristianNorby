@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub! I'm a data analyst with a passion for transforming raw data into meaningful insights that drive decision-making. I specialize in data cleaning, analysis, visualization, and automation using tools like **SQL, Python,Power BI, and Excel**.
 
 <!--
 **ChristianNorby/ChristianNorby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
