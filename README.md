@@ -4,22 +4,16 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 ## Featured Projects
 
 - ☕ Coffee Sales Dashboard (Excel Project)
-
-  An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.
-
-   Skills: PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights
+  - An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.
+  - _Skills_: PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights
 
 - 🧹 (SQL Project) 
+  - Cleaned and transformed raw housing data into a business-ready dataset using SQL.
+  - _Skills_: SQL (data cleaning, joins, transformations), Data Standardization, Business Reporting
 
-  Cleaned and transformed raw housing data into a business-ready dataset using SQL.
-
-  Skills: SQL (data cleaning, joins, transformations), Data Standardization, Business Reporting
-
-- ⛅ (Power BI Project)
-
-  Interactive Power BI dashboard analyzing Plant Co.’s global sales, quantity, and profitability.
-
-  Skills: Power BI, DAX, Power Query, Data Storytelling, Business Insights
+- ⛅ Current Weather Dashboard (Power BI Project)
+  - Interactive Power BI dashboard analyzing Plant Co.’s global sales, quantity, and profitability.
+  - _Skills_: Power BI, DAX, Power Query, Data Storytelling, Business Insights
 
 ## Skills
 - Data Analysis & Visualization: Excel (Advanced Formulas, PivotTables, Power Query), SQL (joins, aggregations, window functions), Power BI (data manipulation, interactive dashboards, DAX)
@@ -37,3 +31,10 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 - Passionate about using data to solve business problems and improve decision-making
 
 - Currently building portfolio projects to showcase my skills in SQL, Power BI, and Excel
+
+## Web Portfolio
+-https://christiannorby.github.io/Web-Portfolio/
+
+## Let’s connect❗
+- LinkedIn
+- Email: 13christiannjames@gmail.com
