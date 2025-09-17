@@ -17,24 +17,19 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 
 ## Skills
 - Data Analysis & Visualization: Excel (Advanced Formulas, PivotTables, Power Query), SQL (joins, aggregations, window functions), Power BI (data manipulation, interactive dashboards, DAX)
-
 - Modeling & Process: Financial Analysis, Deadline/Close Management, Improving Reporting Efficiency
-
 - Tools & Platforms: Oracle Cloud, FDI, OTBI, Workiva
 
 
 ## About Me
 - Master of Business Administration - University of North Dakota
-
 - B.A. of Business Management – University of Minnesota
-
 - Passionate about using data to solve business problems and improve decision-making
-
 - Currently building portfolio projects to showcase my skills in SQL, Power BI, and Excel
 
 ## Web Portfolio
--https://christiannorby.github.io/Web-Portfolio/
+- https://christiannorby.github.io/Web-Portfolio/
 
-## Let’s connect❗
+## Let’s connect!
 - LinkedIn
 - Email: 13christiannjames@gmail.com
