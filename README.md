@@ -1,16 +1,39 @@
-## Welcome to my GitHub! I'm a data analyst with a passion for transforming raw data into meaningful insights that drive decision-making. I specialize in data cleaning, analysis, visualization, and automation using tools like **SQL,Power BI, and Excel**.
+## 👋 Welcome to my GitHub, I'm Christian Norby!
+I’m a Accountant based in Fergus Falls, MN with experience in financial reporting, data analysis, and process optimization. I'm passionate in turning raw data into actionable insights through Excel, SQL, and Power BI. My utility background in finanacial reporting and analysis has taught me how to streamline processes, build efficient systems, and deliver business recommendations that drive measurable impact.
 
-<!--
-**ChristianNorby/ChristianNorby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+- ☕ Coffee Sales Dashboard (Excel Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.
+
+   Skills: PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights
+
+- 🧹 (SQL Project) 
+
+  Cleaned and transformed raw housing data into a business-ready dataset using SQL.
+
+  Skills: SQL (data cleaning, joins, transformations), Data Standardization, Business Reporting
+
+- ⛅ (Power BI Project)
+
+  Interactive Power BI dashboard analyzing Plant Co.’s global sales, quantity, and profitability.
+
+  Skills: Power BI, DAX, Power Query, Data Storytelling, Business Insights
+
+## Skills
+- Data Analysis & Visualization: Excel (Advanced Formulas, PivotTables, Power Query), SQL (joins, aggregations, window functions), Power BI (data manipulation, interactive dashboards, DAX)
+
+- Modeling & Process: Financial Analysis, Deadline/Close Management, Improving Reporting Efficiency
+
+- Tools & Platforms: Oracle Cloud, FDI, OTBI, Workiva
+
+
+## About Me
+- Master of Business Administration - University of North Dakota
+
+- B.A. of Business Management – University of Minnesota
+
+- Passionate about using data to solve business problems and improve decision-making
+
+- Currently building portfolio projects to showcase my skills in SQL, Power BI, and Excel
