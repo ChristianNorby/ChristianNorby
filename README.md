@@ -23,7 +23,7 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 
 ## About Me
 - 🎓 **Master of Business Administration** - University of North Dakota
-- 🎓 **B.A. of Business Management** – University of Minnesota
+- 🎓 **B.S. in Business Management** – University of Minnesota
 - 👨‍💻 Passionate about using data to solve business problems and improve decision-making
 - 🚀 Currently building portfolio projects to showcase my skills in SQL, Power BI, and Excel
 
