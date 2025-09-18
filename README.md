@@ -28,8 +28,8 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 - Currently building portfolio projects to showcase my skills in SQL, Power BI, and Excel
 
 ## Web Portfolio
-- https://christiannorby.github.io/Web-Portfolio/
-
+- [Click Here](https://christiannorby.github.io/Web-Portfolio/)
+- <a href="https://christiannorby.github.io/Web-Portfolio/" target="_blank">CLick Here!</a>
 ## Let’s connect!
-- LinkedIn: www.linkedin.com/in/christiannorby
+- <a href="www.linkedin.com/in/christiannorby" target="_blank">LinkedIn</a>
 - Email: 13christiannjames@gmail.com
