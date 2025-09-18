@@ -31,6 +31,5 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 - [Click Here](https://christiannorby.github.io/Web-Portfolio/)
 
 ## Let’s connect!
-- [LinkedIn](www.linkedin.com/in/christiannorby/)
-- https://www.linkedin.com/in/christiannorby?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdF9DQtu9RZWHv0RHFW392Q%3D%3D
+- [LinkedIn](https://www.linkedin.com/in/christiannorby?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdF9DQtu9RZWHv0RHFW392Q%3D%3D)
 - Email: 13christiannjames@gmail.com
