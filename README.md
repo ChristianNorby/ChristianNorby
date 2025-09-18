@@ -3,15 +3,15 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 
 ## Featured Projects
 
-- ☕ Coffee Sales Dashboard (Excel Project)
+- ☕ [Coffee Sales Dashboard (Excel Project)](https://github.com/ChristianNorby/Excel)
   - An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.
   - _Skills_: PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights
 
-- 🧹 (SQL Project) 
+- 🧹[NAME HERE(SQL Project)](https://github.com/ChristianNorby/SQL)
   - Cleaned and transformed raw housing data into a business-ready dataset using SQL.
   - _Skills_: SQL (data cleaning, joins, transformations), Data Standardization, Business Reporting
 
-- ⛅ Current Weather Dashboard (Power BI Project)
+- ⛅ [Current Weather Dashboard (Power BI Project)](https://github.com/ChristianNorby/Power-BI)
   - Interactive Power BI dashboard analyzing Plant Co.’s global sales, quantity, and profitability.
   - _Skills_: Power BI, DAX, Power Query, Data Storytelling, Business Insights
 
