@@ -7,7 +7,7 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
   - An interactive Excel dashboard analyzing coffee sales by region, product type, and customer loyalty.
   - _Skills_: PivotTables, Slicers, Advanced Excel Formulas, Data Visualization, Business Insights
 
-- 🧹[NAME HERE(SQL Project)](https://github.com/ChristianNorby/SQL)
+- 🧹[Company Layoffs Data Cleaning (SQL Project)](https://github.com/ChristianNorby/SQL/blob/main/README.md)
   - Cleaned and transformed raw housing data into a business-ready dataset using SQL.
   - _Skills_: SQL (data cleaning, joins, transformations), Data Standardization, Business Reporting
 
