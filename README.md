@@ -13,7 +13,7 @@ I’m a Accountant based in Fergus Falls, MN with experience in financial report
 
 - ⛅ [Current Weather Dashboard (Power BI Project)](https://github.com/ChristianNorby/Power-BI)
   - Interactive Power BI dashboard analyzing Plant Co.’s global sales, quantity, and profitability.
-  - _Skills_: Power BI, DAX, Power Query, Data Storytelling, Business Insights
+  - _Skills_: Power BI, DAX, Power Query, Data Storytelling, Insights
 
 ## Skills
 - **Data Analysis & Visualization:** Excel (Advanced Formulas, PivotTables, Power Query), SQL (joins, aggregations, window functions), Power BI (data manipulation, interactive dashboards, DAX)
